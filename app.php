@@ -1,5 +1,4 @@
 <?php
-// Добавляем HTML-форму в начало
 echo '<!DOCTYPE html><html><head><title>Обработка файла</title><meta charset="UTF-8">
       <script>
       function enableEditing() {
